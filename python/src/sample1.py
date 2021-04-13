@@ -11,3 +11,5 @@ y = np.sin(2.0 * np.pi * (x * Hz) / 100)
 # グラフを描画
 plt.plot(x, y)
 plt.savefig('test.png')
+
+#コメント追加
